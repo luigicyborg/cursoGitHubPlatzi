@@ -4,7 +4,7 @@
 
 </head>
     <body>
-        <h1>Esta es la aplicacion y este soy yo!!!!! y mi vida!!! y su maestria!!</h1>
-        <h2>Mañana nos enfocaremos</h2>
+        <h1>Esta es la aplicacion</h1>
+        <h2>Mañana nos enfocaremos en otra cosa</h2>
 </body>
     </html>
