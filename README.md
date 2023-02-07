@@ -1,2 +1,2 @@
 # cursoGitHubPlatzi
-Este es el proyecto para el curso de Platzi
+Este es el proyecto para el curso de GitHub de Platzi
